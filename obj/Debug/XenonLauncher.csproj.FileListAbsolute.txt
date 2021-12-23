@@ -1,0 +1,26 @@
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\XenonLauncher.exe.config
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\XenonLauncher.exe
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\XenonLauncher.pdb
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.AssemblyReference.cache
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.XenonLauncher.resources
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.Properties.Resources.resources
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.GenerateResource.cache
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.exe
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.pdb
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Charlie Corcoran\Desktop\Youtube\Speshul's Launcher\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.CopyComplete
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\XenonLauncher.exe.config
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\XenonLauncher.exe
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\XenonLauncher.pdb
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.AssemblyReference.cache
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.XenonLauncher.resources
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.Properties.Resources.resources
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.GenerateResource.cache
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.csproj.CopyComplete
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.exe
+C:\Users\Charlie Corcoran\Desktop\Youtube\Xenon Launcher\XenonLauncher\XenonLauncher\obj\Debug\XenonLauncher.pdb
